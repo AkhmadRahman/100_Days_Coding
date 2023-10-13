@@ -16,6 +16,6 @@ public class operator_aritmatika {
         System.out.println("Pembagian: " + Pembagian);
 
         int sisaBagi = angka1 % angka2;
-        System.out.println("Sisa hasil bagi: " + sisaBagi);
+        System.out.println("Sisa hasil bagi: " + sisabagi);
     }
 }
