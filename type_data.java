@@ -1,6 +1,6 @@
-public class variabel_umum_java {
+public class type_data_java {
     public static void main(String[] args) {
-        // Variabel umum
+
         int umur = 18; //bilangan bulat (integer)
         double  Tinggi = 176.2; //bilangan pecahan (floating-point)
         String nama = "Ahmad Rahman"; //teks
