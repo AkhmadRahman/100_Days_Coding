@@ -10,7 +10,11 @@ package javaapplication10;
  */
 public class percabangan {
     public static void main(String[] args) {
-        
+        int angka = 100;
+        if (angka > 99) {
+            System.out.println("lebih besar");
+        } else {
+            System.out.println("Lebih Kecil Itumah");
         }
     }
 }
